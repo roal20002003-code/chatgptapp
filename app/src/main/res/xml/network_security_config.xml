@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- بعضی لینک‌های سایت با http هستند؛ فقط برای همین دامنه اجازه داده می‌شود -->
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">spaceweather.ir</domain>
+    </domain-config>
+</network-security-config>

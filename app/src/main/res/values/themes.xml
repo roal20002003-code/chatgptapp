@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.SpaceWeather" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/night</item>
+        <item name="android:statusBarColor">@color/night</item>
+        <item name="android:navigationBarColor">@color/night</item>
+    </style>
+    <color name="night">#FF0D1122</color>
+    <color name="sun">#FFFFB23F</color>
+</resources>
